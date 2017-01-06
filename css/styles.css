@@ -67,7 +67,8 @@ a, button, .btn {
     height: 200px;
     position: relative;
     overflow: hidden; 
-    margin: auto;
+    padding: auto; 
+    border: solid 2px #7d97ad; 
 }
 
 .img-proj {    
