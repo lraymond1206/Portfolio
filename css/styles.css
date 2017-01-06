@@ -110,7 +110,7 @@ a, button, .btn {
 }
 
 .img-proj {
-    max-height:250px;
+    height:250px;
     display: inline;
     margin: auto;
 }
