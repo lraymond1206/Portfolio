@@ -66,16 +66,18 @@ a, button, .btn {
     width: 300px;
     height: 200px;
     position: relative;
-    overflow: hidden; 
-    padding: auto; 
+    overflow: hidden;  
     border: solid 2px #7d97ad; 
 }
 
 .img-proj {    
-    height: 250px;
+    height: auto;
     width: auto;
     display: inline-block;
     margin: auto;
+    display: block;
+    max-width: 100%;
+    max-height:100%;
     object-fit: contain;
 }
 
