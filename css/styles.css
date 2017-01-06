@@ -74,7 +74,6 @@ a, button, .btn {
 }
 
 .img-proj {
-    /* background-image: url("https://lraymond1206.github.io/Udacity_TShirt_Shop/img/white.png"); */
     position: absolute;
     height: 100%;
     margin: auto;
@@ -86,7 +85,11 @@ a, button, .btn {
     right: -9999px;
 }
 
-/*.img-proj1 {
+/* .img-proj0 {
+    background-image: url("https://lraymond1206.github.io/Udacity_TShirt_Shop/img/white.png");
+}
+
+.img-proj1 {
     /* background-image: url("http://i2.wp.com/blog.udacity.com/wp-content/uploads/2016/03/56df2490a351d802222160.gif"); 
     height: 100%;
 }
@@ -94,7 +97,7 @@ a, button, .btn {
 .img-proj2 {
     /* background-image: url("http://www.potentash.com/wp-content/uploads/2012/08/Cheetah-2-300x200.jpg"); 
     height: 100%;
-}*/
+} */
 
 .img-modal {
     max-width: 300px;
