@@ -1,5 +1,5 @@
 body {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     color: #2d3c49;
     font-weight: 400;
     overflow: auto;
@@ -32,7 +32,7 @@ body {
 }
 
 hr {
-    border:solid 2px #7d97ad;
+    border: solid 2px #7d97ad;
     margin-bottom: 35px;
     margin-top: 10px;
 }
@@ -44,9 +44,7 @@ hr {
 }
 
 .feat-style {
-    margin-left: 10px;
-    margin-top: 50px;
-    margin-bottom: 10px;
+    margin: 50px 0px 10px 10px;
     letter-spacing: 3px;
     word-spacing: 3px;
     font-size: 40px;
@@ -70,6 +68,7 @@ hr {
         font-size: 14px;
     }
 }
+
 @media only screen and (max-width: 1440px) { 
     .proj-style {
         font-size: 36px; 
@@ -77,7 +76,8 @@ hr {
     .link-style { 
         font-size: 13px;
     }
-}    
+} 
+
 @media only screen and (max-width: 1350px) { 
     .proj-style {
         font-size: 34px; 
@@ -86,6 +86,7 @@ hr {
         font-size: 12px;
     }
 }
+
 @media only screen and (max-width: 1200px) { 
     .proj-style {
         font-size: 32px; 
@@ -94,6 +95,7 @@ hr {
         font-size: 11px;
     }
 }
+
 @media only screen and (max-width: 992px)  { 
     .proj-style {
         font-size: 45px; 
