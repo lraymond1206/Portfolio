@@ -76,6 +76,7 @@ a, button, .btn {
     /* background-image: url("https://lraymond1206.github.io/Udacity_TShirt_Shop/img/white.png"); */
     height: 100%;
     margin: auto;
+    max-width: 200%;
 }
 
 /*.img-proj1 {
