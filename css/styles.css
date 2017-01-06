@@ -67,6 +67,7 @@ a, button, .btn {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
+    margin: 0, auto;
 }
 
 .img1 {  
