@@ -66,22 +66,25 @@ a, button, .btn {
     width: 300px;
     height: 200px;
     margin: auto;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
+    overflow: hidden;
+    /* background-size: cover;
+       background-repeat: no-repeat;
+       background-position: 50% 50%; */
 }
 
-.img-proj1{
+/*
+.img-proj0{
     background-image: url("https://lraymond1206.github.io/Udacity_TShirt_Shop/img/white.png");
 }
 
-.img-proj2{
+.img-proj1{
     background-image: url("http://i2.wp.com/blog.udacity.com/wp-content/uploads/2016/03/56df2490a351d802222160.gif");;
 }
 
-.img-proj3{
+.img-proj2{
     background-image: url("http://www.potentash.com/wp-content/uploads/2012/08/Cheetah-2-300x200.jpg");
 }
+*/
 
 .img-modal {
     max-width: 300px;
