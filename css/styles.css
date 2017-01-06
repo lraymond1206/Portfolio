@@ -21,8 +21,7 @@ body {
 }
 
 .title-logo {
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin: 25px 0px;
     width: 100px;
 }
 
@@ -33,18 +32,16 @@ body {
 
 hr {
     border: solid 2px #7d97ad;
-    margin-bottom: 35px;
-    margin-top: 10px;
+    margin: 10px 0px 35px;
 }
 
 .ninja-style {
     font-size: 26px;
-    margin-top: 0px;
     letter-spacing: 1px;
 }
 
 .feat-style {
-    margin: 50px 0px 10px 10px;
+    margin: 50px 10px 10px;
     letter-spacing: 3px;
     word-spacing: 3px;
     font-size: 40px;
@@ -113,7 +110,7 @@ a, button, .btn {
 }
 
 .img-proj {
-    min-height: 100%;
+    max-height:250px;
     display: inline;
     margin: auto;
 }
