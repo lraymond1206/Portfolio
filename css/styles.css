@@ -77,6 +77,8 @@ a, button, .btn {
     height: 100%;
     margin: auto;
     max-width: 200%;
+    object-fit: cover;
+    object-position: 50% 50%;
 }
 
 /*.img-proj1 {
