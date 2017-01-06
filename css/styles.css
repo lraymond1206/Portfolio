@@ -63,9 +63,10 @@ a, button, .btn {
 }
 
 .img-container {
-    width: 350px;
+    width: 300px;
     height: 200px;
     margin: auto;
+    position: relative;
     overflow: hidden;
     /* background-size: cover;
        background-repeat: no-repeat;
@@ -74,11 +75,15 @@ a, button, .btn {
 
 .img-proj {
     /* background-image: url("https://lraymond1206.github.io/Udacity_TShirt_Shop/img/white.png"); */
+    position: absolute;
     height: 100%;
     margin: auto;
-    max-width: 150%;
+    max-width: 200%;
     object-fit: cover;
-    object-position: 50% 50%;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
 }
 
 /*.img-proj1 {
