@@ -46,9 +46,7 @@ hr {
     word-spacing: 3px;
     font-size: 40px;
 }
-.projects {
-    position: relative;
-}
+
 .proj-style {
     letter-spacing: 3px;
     margin-top: 13px;
@@ -57,6 +55,32 @@ hr {
 .link-style {
     color: #2d3c49;  
     letter-spacing: 1px;
+}
+
+a, button, .btn {
+    min-width: 48px;
+    min-height: 48px;
+}
+
+.img-container {
+    width: 33.33%;
+    height: 250px;
+    display: inline-block; 
+    overflow: hidden;
+}
+
+.img-container img{
+    width: 100%;
+}
+
+.img-proj {
+    display: inline;
+    margin: auto;
+}
+
+.img-modal {
+    max-width: 300px;
+    margin: auto;
 }
 
 @media only screen and (min-width: 1440px) { 
@@ -102,20 +126,4 @@ hr {
     .link-style { 
         font-size: 20px;
     }
-}
-
-a, button, .btn {
-    min-width: 48px;
-    min-height: 48px;
-}
-
-.img-proj {
-    height:250px;
-    display: inline;
-    margin: auto;
-}
-
-.img-modal {
-    max-width: 300px;
-    margin: auto;
 }
