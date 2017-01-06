@@ -63,17 +63,13 @@ a, button, .btn {
 }
 
 .img-container {
-    width: 33.33%;
     height: 400px;
     display: inline-block; 
     overflow: hidden;
 }
 
-.img-container img{
-    
-}
-
 .img-proj {
+    max-height: 250px;
     display: inline;
     margin: auto;
 }
