@@ -49,7 +49,9 @@ hr {
     word-spacing: 3px;
     font-size: 40px;
 }
-
+.projects {
+    position: relative;
+}
 .proj-style {
     letter-spacing: 3px;
     margin-top: 13px;
@@ -111,7 +113,7 @@ a, button, .btn {
 }
 
 .img-proj {
-    height: 200px;
+    min-height: 100%;
     display: inline;
     margin: auto;
 }
