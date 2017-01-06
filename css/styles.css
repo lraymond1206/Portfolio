@@ -70,7 +70,9 @@ a, button, .btn {
 
 .img-proj {
     max-height: 250px;
-    display: inline;
+    width: auto;
+    height: auto;
+    display: inline-block;
     margin: auto;
 }
 
