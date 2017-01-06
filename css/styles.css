@@ -20,7 +20,7 @@ body {
 }
 
 .title-logo {
-    margin: 25px 0px;
+    margin: 25px 0;
     width: 100px;
     height: auto;
 }
@@ -32,7 +32,7 @@ body {
 
 hr {
     border: solid 2px #7d97ad;
-    margin: 10px 0px 35px;
+    margin: 10px 0 35px;
 }
 
 .ninja-style {
